@@ -1,0 +1,15 @@
+41 min completed
+
+
+git remote add origin <-link->
+git remote -v
+git branch
+git branch -M main
+git push origin main
+git branch -M Name to change a branch Name
+git checkout <-branch name-> to shift to onother branch
+git checkout-b branch name to create a new branch
+git branch-d branch name to  delete new branch
+git clone link to bring repo in computer
+55 minuts completed
+Amit pratap yadav
