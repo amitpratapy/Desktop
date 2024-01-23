@@ -1,0 +1,130 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.head {
+    height: 150px;
+    background-color: rgb(247, 247, 247);
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+
+  .s-card{
+    height: 300px;
+    width: 250px;
+    /* background-color: red; */
+    margin: auto;
+  }
+
+  .img-cart {
+    height: 180px;
+    width: 230px;
+    margin: auto;
+    margin-top: 4px;
+    margin-bottom: 0;
+  }
+
+
+  .name {
+    width: 230px;
+    height: 30px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .c-name {
+    font-weight: bold;
+  }
+  
+  .r-name {
+    height: 23px;
+    background-color: red;
+    width: 40px;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .place {
+    width: 230px;
+    height: 30px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+
+  .place {
+    width: 230px;
+    height: 30px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .c-place {
+    font-size: 9px;
+  }
+  
+  .r-place {
+    color: rgb(225, 0, 255);
+  }
+
+  .line {
+    width: 230px;
+    height: 1px;
+    background-color: black;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+
+  .logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    width: 230px;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .l-logo img {
+    height: 25px;
+    width: 25px;
+    background-color: green;
+    border-radius: 50%;
+  }
+  
+  .r-logo img {
+    height: 23px;
+    background-color: green;
+    width: 40px;
+    border-radius: 4px;
+    width: 45px;
+  }
+

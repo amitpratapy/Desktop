@@ -1,0 +1,54 @@
+.s-pos{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.position{
+    position: relative;
+}
+
+.height{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #6f62a4;
+}
+
+.left{
+    font-size: 30px;
+    margin-left: 5px;
+}
+
+.right{
+    font-size: 30px;
+    margin-right: 5px;
+    /* background-color: red; */
+}
+
+.absolute{
+    position: absolute;
+    top: 7px;
+    right: 1px;
+    color: white;
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.card-cursor{
+    cursor: pointer;
+}
+
+.card-cursor:hover{
+    color: #d7d1d1;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
