@@ -2,6 +2,8 @@
 import React from 'react';
 import "./App.css"
 import Cnine from './components/Cnine';
+import Cten from './components/Cten';
+import Celeven from './components/Celeven';
 // import Ceight from './components/Ceight';
 // import Cseven from './components/Cseven';
 // import Csix from './components/Csix';
@@ -34,10 +36,13 @@ const App = () => {
    
     {/* <Ceight/> */}
     
-    <Cnine/>
+    {/* <Cnine/> */}
+
+    {/* <Cten/> */}
+    <Celeven/>
 
 
-    {/* 24 mnts completed */}
+    {/* 26 mnts completed */}
     
     </>
   )
