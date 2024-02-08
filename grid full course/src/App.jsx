@@ -42,7 +42,7 @@ const App = () => {
     <Celeven/>
 
 
-    {/* 26 mnts completed */}
+    {/* completed this video */}
     
     </>
   )
